@@ -8,5 +8,5 @@ var val2 = 23.0;
 if(val1 == val2){
     console.log("Same");
 } else{
-    console.log("Nope");
+    console.log("Bulu Buluuuu");
 }
